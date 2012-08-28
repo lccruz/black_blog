@@ -2,7 +2,7 @@
 Black Blog
 ==========
 
-Black Blog is an Plone Theme developed by Luciano Camargo Cruz using the theming and packaging features available in plone.app.theming. This theme is basead in beyondskins.responsive[1] developed by Simples Consultoria.
+Black Blog is a Plone Theme developed by Luciano Camargo Cruz using the theming and packaging features available in plone.app.theming. This theme is based on beyondskins.responsive[1] developed by Simples Consultoria.
 
 [1] http://plone.org/products/beyondskins.responsive
 
